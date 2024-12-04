@@ -1,8 +1,8 @@
 ## 👋 This is NTT-DevFPT!
 
-[![Facebook](https://img.shields.io/badge/-ProgramZmh-black?labelColor=black&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100029723738561)
-[![LinkedIn](https://img.shields.io/badge/-ProgramZmh-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-813053294/)
-[![email](https://img.shields.io/badge/-zmh@lightxi.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:thanhtai10903@gmail.com)
+[![Facebook](https://img.shields.io/badge/-NTT-DevFPT-black?labelColor=black&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100029723738561)
+[![LinkedIn](https://img.shields.io/badge/-NTT-DevFPT-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-813053294/)
+[![email](https://img.shields.io/badge/-NTT-DevFPT-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:thanhtai10903@gmail.com)
 
 
 ### ⚒ Skills
