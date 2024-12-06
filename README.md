@@ -6,8 +6,8 @@ I’m **NTT-DevFPT**. I specialize in both **Frontend** and **Backend** developm
 
 In addition to development, I enjoy exploring the latest tech trends, contributing to open-source projects, and solving complex coding challenges.
 
-- 🔭 **Current Focus**: Building a personal portfolio website and experimenting with **AI tools for development**.
-- 🌱 **Learning**: Diving deeper into **Next.js**, **GraphQL**, and **AWS Cloud**.
+- 🔭 **Current Focus**: Building a personal portfolio website .
+- 🌱 **Learning**: Diving deeper into **Spring boot**, **GraphQL**, and **AWS Cloud**.
 - 📫 **Contact Me**: [thanhtai10903@gmail.com](mailto:thanhtai10903@gmail.com)
 - ⚡ **Fun Fact**: In my free time, I love playing **chess** and exploring various **programming languages**.
 
