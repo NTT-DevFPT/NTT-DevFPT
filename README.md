@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=arduino,nodejs,react,tailwindcss,redux,bootstrap,html,css,js,ts,scss,spring)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgresql,docker,kubernetes,nginx,git,npm,vite,webpack,github,githubactions,figma,aws,azure,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker,kubernetes,nginx,git,npm,vite,webpack,github,githubactions,figma,aws,vercel,netlify,heroku)](https://skillicons.dev)
 
 ### 📊 Contribution
 ![NTT-DevFPT](https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&count_private=true&show_icons=true&theme=radical)
