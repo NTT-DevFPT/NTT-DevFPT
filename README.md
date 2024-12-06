@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-size: 36px;">👋 NTT-DevFPT | Backend Developer</h1>
+  <h1 style="text-align: center; font-size: 40px; font-weight: bold;">👋 NTT-DevFPT | Backend Developer</h1>
 
 ### 🌟 About Me
 
