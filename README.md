@@ -1,31 +1,63 @@
-## 👋 This is NTT-DevFPT!
+## 👋 NTT-DevFPT | Backend Developer
 
-[![Facebook](https://img.shields.io/badge/-Facebook-black?labelColor=black&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100029723738561)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-813053294/)
-[![email](https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:thanhtai10903@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-black?labelColor=black&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100029723738561)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-813053294/)  
+[![email](https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:thanhtai10903@gmail.com)  
 
-## 👋 About Me
+---
 
-Hello there! I'm **NTT-DevFPT**. I love creating innovative solutions and learning new technologies. Currently, I specialize in **Front End** and **Back End** development using frameworks like **React**, **Node.js**, and **Spring Boot**. 
+### 🌟 About Me
 
-In my free time, I enjoy exploring new tech trends, contributing to open-source projects, and solving coding challenges.
+I’m **NTT-DevFPT**. I specialize in both **Frontend** and **Backend** development, utilizing modern frameworks such as **React**, **Node.js**, and **Spring Boot**. My goal is to continuously learn and leverage cutting-edge technologies to build efficient and scalable applications.
 
-- 🔭 I’m currently working on a **personal portfolio website** and exploring **AI tools for development**.
-- 🌱 I’m learning **Next.js**, **GraphQL**, and **AWS Cloud**.
-- 📫 How to reach me: [email](mailto:thanhtai10903@gmail.com)
-- ⚡ Fun fact: I love **playing chess** and exploring different programming languages.
+In addition to development, I enjoy exploring the latest tech trends, contributing to open-source projects, and solving complex coding challenges.
 
-Feel free to check out my repositories and let's collaborate on amazing projects!
+- 🔭 **Current Focus**: Building a personal portfolio website and experimenting with **AI tools for development**.
+- 🌱 **Learning**: Diving deeper into **Next.js**, **GraphQL**, and **AWS Cloud**.
+- 📫 **Contact Me**: [email](mailto:thanhtai10903@gmail.com)
+- ⚡ **Fun Fact**: In my free time, I love playing **chess** and exploring various **programming languages**.
 
-### ⚒ Skills
-🥪 **Front End** / 🥗 **Backend**
+---
+
+### ⚒ Core Skills
+
+- **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Redux, Bootstrap, SCSS  
+- **Backend Development**: Node.js, Spring Boot, Express.js  
+- **Database Management**: MySQL, MongoDB  
+- **Version Control**: Git, GitHub  
+
+---
 
 ### 🍉 Tech Stack
+
+- **Frontend**: React, Tailwind CSS, Redux, Bootstrap, HTML, CSS, JavaScript, TypeScript, SCSS
+- **Backend**: Node.js, Spring Boot
+- **Databases**: MySQL, MongoDB
+- **DevOps/Hosting**: Docker, Kubernetes, Nginx, AWS, Vercel, Netlify, Heroku
+- **Tools**: Git, npm, Webpack, Vite, GitHub Actions, Figma
+
 [![My Skills](https://skillicons.dev/icons?i=arduino,nodejs,react,tailwindcss,redux,bootstrap,html,css,js,ts,scss,spring)](https://skillicons.dev)
 
-### 🔨 Tools I Use
+---
+
+### 🔨 Tools & Technologies I Use
+
+- **Database Management**: MySQL, MongoDB
+- **Cloud & Deployment**: AWS, Docker, Kubernetes, Heroku, Vercel, Netlify
+- **CI/CD**: GitHub Actions, Webpack, Vite
+- **Version Control**: Git, GitHub
+- **Design & Prototyping**: Figma
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,docker,kubernetes,nginx,git,npm,vite,webpack,github,githubactions,figma,aws,vercel,netlify,heroku)](https://skillicons.dev)
 
-### 📊 Contribution
+---
+
+### 📊 My GitHub Stats
+
 ![NTT-DevFPT](https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&count_private=true&show_icons=true&theme=radical)
 
+---
+
+### 💼 Let's Collaborate!
+
+Feel free to check out my repositories, explore my projects, and let's connect to build amazing software together!
