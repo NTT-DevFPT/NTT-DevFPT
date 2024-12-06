@@ -5,10 +5,19 @@
 [![email](https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:thanhtai10903@gmail.com)
 
 ### ⚒ Skills
-🥪 **Front End** / 🥗 **Backend** 
+🥪 **Front End** / 🥗 **Backend**
 
 ### 🍉 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=arduino,nodejs,react,tailwindcss,redux,bootstrap,html,css,js,ts,scss,spring)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgresql,docker,kubernetes,nginx,git,npm,vite,webpack,github,githubactions,figma,aws,azure,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
+
+### 📊 My GitHub Stats
+![NTT-DevFPT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&count_private=true&show_icons=true&theme=radical)
+
+### 📈 Contribution Graph
+![NTT-DevFPT's Contribution Graph](https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark)
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTT-DevFPT&layout=compact&theme=radical)
