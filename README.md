@@ -8,7 +8,7 @@ In addition to development, I enjoy exploring the latest tech trends, contributi
 
 - 🔭 **Current Focus**: Building a personal portfolio website and experimenting with **AI tools for development**.
 - 🌱 **Learning**: Diving deeper into **Next.js**, **GraphQL**, and **AWS Cloud**.
-- 📫 **Contact Me**: [email](mailto:thanhtai10903@gmail.com)
+- 📫 **Contact Me**: [thanhtai10903@gmail.com](mailto:thanhtai10903@gmail.com)
 - ⚡ **Fun Fact**: In my free time, I love playing **chess** and exploring various **programming languages**.
 
 ---
