@@ -1,11 +1,5 @@
 <h1 style="text-align: center; font-size: 36px;">👋 NTT-DevFPT | Backend Developer</h1>
 
-[![Facebook](https://img.shields.io/badge/-Facebook-black?labelColor=black&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100029723738561) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-813053294/) 
-[![email](https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:thanhtai10903@gmail.com)
-
----
-
 ### 🌟 About Me
 
 I’m **NTT-DevFPT**. I specialize in both **Frontend** and **Backend** development, utilizing modern frameworks such as **React**, **Node.js**, and **Spring Boot**. My goal is to continuously learn and leverage cutting-edge technologies to build efficient and scalable applications.
@@ -59,5 +53,8 @@ In addition to development, I enjoy exploring the latest tech trends, contributi
 ---
 
 ### 💼 Let's Collaborate!
+[![Facebook](https://img.shields.io/badge/-Facebook-black?labelColor=black&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100029723738561) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-813053294/) 
+[![email](https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:thanhtai10903@gmail.com)
 
 Feel free to check out my repositories, explore my projects, and let's connect to build amazing software together!
