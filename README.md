@@ -1,4 +1,4 @@
-## 👋 NTT-DevFPT | Backend Developer
+<h1 style="text-align: center; font-size: 36px;">👋 NTT-DevFPT | Backend Developer</h1>
 
 [![Facebook](https://img.shields.io/badge/-Facebook-black?labelColor=black&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100029723738561) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-813053294/) 
@@ -36,7 +36,7 @@ In addition to development, I enjoy exploring the latest tech trends, contributi
 - **DevOps/Hosting**: Docker, Kubernetes, Nginx, AWS, Vercel, Netlify, Heroku
 - **Tools**: Git, npm, Webpack, Vite, GitHub Actions, Figma
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,nodejs,react,tailwindcss,redux,bootstrap,html,css,js,ts,scss,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,nodejs,react,tailwindcss,redux,bootstrap,html,css,js,ts,scss,spring,mysql,mongodb,docker,kubernetes,nginx,aws,vercel,netlify,heroku,git,npm,webpack,vite,githubactions,figma)](https://skillicons.dev)
 
 ---
 
