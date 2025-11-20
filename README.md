@@ -175,6 +175,8 @@ Postman, Figma, ngrok
 
 </div>
 
+> **Note**: GitHub's language statistics primarily show public personal repositories. My extensive Java/Spring Boot work in organization projects (OnlyFan e-commerce platform) is not reflected in these stats but represents a significant portion of my professional development experience.
+
 ---
 
 ## 🎯 Professional Expertise
