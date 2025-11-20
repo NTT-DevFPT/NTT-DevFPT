@@ -1,199 +1,246 @@
 <div align="center">
 
 <!-- 3D Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=👨‍💻+NGUYỄN+THÀNH+TÀI;Backend+Developer+%7C+Java+Spring+Boot;Building+Scalable+%26+High-Performance+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF¢er=true&vCenter=true&width=940&lines=🚀+NGUYỄN+THÀNH+TÀI;+Backend+Developer+%7C+Java+Spring+Boot;Building+Scalable%26High-Performance+Systems" alt="Typing SVG" />
 
 <!-- 3D Badges with Shadow Effects -->
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-ntt--dev--fpt.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://ntt-dev-fpt.vercel.app)
-[![Email](https://img.shields.io/badge/📧_Email-thanhtai10903%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:thanhtai10903@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
-[![Facebook](https://img.shields.io/badge/👥_Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a1a)](https://www.facebook.com/profile.php?id=100029723738561)
+[![Email](https://img.shields.io/badge/📧_EMAIL-thanhta110903@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:thanhta110903@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
+[![Facebook](https://img.shields.io/badge/📘_Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a1a)](https://www.facebook.com/profile.php?id=100029727378561)
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=NTT-DevFPT&label=Profile%20Views&color=00D9FF&style=flat)
-
-*Backend Developer specializing in Java Spring Boot | Passionate about building scalable and high-performance systems*
+![Profile Views](https://komarev.com/ghpvc/?username=NTT-DevFPT&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 💫 About Me
 
-Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City, Vietnam**. I specialize in backend development with **Java Spring Boot**, while also having experience working with **Frontend** and **Mobile Development**.
+**Backend Developer** specializing in **Java Spring Boot** | Passionate about building scalable and high-performance systems
 
-- 🔭 **Currently**: Building personal portfolio website and e-commerce projects
-- 🌱 **Learning**: Deep diving into **Spring Boot**, **GraphQL**, and **AWS Cloud**
-- 💼 **Position**: Backend Developer
-- 📍 **Location**: HCM City, Vietnam
-- ⚡ **Hobbies**: Playing chess, exploring new programming languages
+Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City, Vietnam**. I specialize in backend development with **Java Spring Boot**, while also having experience working with **Frontend** and **Mobile** development.
+
+- 🎓 Currently studying **Software Engineering** at **FPT University**
+- 🌱 Learning **Spring Cloud**, **Kubernetes**, and **AWS Services**
+- 💼 Working on **E-commerce** and **Enterprise Applications**
+- 📍 Based in **Ho Chi Minh City, Vietnam**
+- 🎯 Hobbies: Coding, Reading Tech Blogs, Gaming
 
 ---
 
-## 💻 Core Skills
+## 🛠️ Core Skills
 
-### Backend Development (Primary Expertise)
 ```java
-// Core Backend Technologies
-- Java ☕ (Spring Boot, Spring MVC, Spring Security, Spring Data JPA)
-- RESTful API Design & Development
-- Microservices Architecture
-- Authentication & Authorization (JWT, OAuth2)
-- API Documentation (Swagger/OpenAPI)
+// Backend Development
+Java 17 • Spring Boot 3.x • RESTful APIs • Microservices
+JWT/OAuth2 • Spring Security • Swagger/OpenAPI
 ```
 
-### Frontend Development
-```javascript
-// Frontend Technologies 
-- React ⚛️ (Hooks, Context API, Redux)
-- TypeScript 📘
-- Next.js
-- HTML5, CSS3, JavaScript (ES6+)
-- Tailwind CSS, Bootstrap, SCSS
+```typescript
+// Frontend Development
+React 18 • TypeScript • Next.js 14 • HTML5/CSS3
+Tailwind CSS • Bootstrap 5 • Responsive Design
 ```
 
-### Mobile Development
 ```kotlin
-// Mobile Technologies
-- Android (Java, Kotlin)
-- Jetpack Compose
-- MVVM Architecture
-- Room Database
-- Retrofit & OkHttp
+// Mobile Development
+Android • Kotlin • Jetpack Compose • MVVM
+Room Database • Retrofit • Material Design
+```
+
+```sql
+-- Database & Tools
+MySQL • PostgreSQL • MongoDB • Redis
+Docker • Git • Postman • Jenkins
 ```
 
 ---
 
 <div align="center">
-
-## 📊 GitHub Language Statistics
-
-<!-- Custom GitHub Language Stats API -->
-<img src="https://github-lang-stats-api.vercel.app/api/stats?username=NTT-DevFPT&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Language Stats" width="600"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
-### 🛍️ **OnlyFanShop** - E-Commerce Platform
-**Full-Stack E-commerce Application | Spring Boot + React + Android**
+### 👉 Swipe to explore more projects
 
-Một nền tảng thương mại điện tử toàn diện được xây dựng với kiến trúc microservices hiện đại. Hệ thống cho phép người dùng mua sắm trực tuyến với trải nghiệm mượt mà trên cả web và mobile, tích hợp đầy đủ các tính năng từ giỏ hàng, thanh toán đến quản lý đơn hàng.
+<table>
+<tr>
+<td width="25%" align="center">
 
-**🎯 Key Features:**
-- 🛒 Shopping cart & wishlist management với real-time updates
-- 💳 Multiple payment gateway integration (VNPay, Momo)
-- 📦 Real-time order tracking system với notifications
-- 👤 Advanced user authentication & authorization (JWT + OAuth2)
-- 📱 Responsive Progressive Web App + Native Android application
-- 🔍 Elasticsearch-powered product search & smart filtering
-- ⭐ Review & rating system với image uploads
-- 📊 Comprehensive admin dashboard với analytics
-- 🎨 Modern UI/UX với smooth animations
-- 🔐 Secure payment processing với PCI compliance
+### 🛍️ OnlyFanShop
+**E-Commerce Platform**
 
-**🛠️ Tech Stack:**
-- **Backend**: Java 17, Spring Boot 3.x, Spring Security, Spring Data JPA, Spring Cloud
-- **Frontend**: React 18, Redux Toolkit, TypeScript, Tailwind CSS, Framer Motion
-- **Mobile**: Android (Kotlin), Jetpack Compose, Coroutines, Flow
-- **Database**: MySQL 8.0, Redis (session & caching), Elasticsearch
-- **Payment**: VNPay API Integration, Momo Wallet API
-- **Cloud & DevOps**: Docker, Docker Compose, AWS/Vercel, GitHub Actions
-- **Architecture**: Microservices, RESTful API, Clean Architecture
+🎯 **Main Features**
+- Multi-role system
+- Product management
+- Shopping cart & checkout
+- Payment integration
+- Order tracking
 
-**📈 Achievements:**
-- Xử lý được 1000+ concurrent users với response time < 200ms
-- Tích hợp thành công 2 payment gateways lớn tại VN
-- Thiết kế database optimization với indexing strategy
-- Implement caching layer giảm 70% database queries
+⚡ **Tech Stack**
+`Java 17` `Spring Boot 3.x`
+`React 18` `MySQL`
+`Redis` `VNPay`
 
----
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge)](https://github.com/NTT-DevFPT/OnlyFan)
 
-### 📚 **VNR202** - Book Rental Management System  
-**Academic Project | Spring Boot + MySQL | Team Collaboration**
+</td>
+<td width="25%" align="center">
 
-Hệ thống quản lý cho thuê sách trực tuyến được phát triển trong môn học tại FPT University. Dự án tập trung vào việc xây dựng một nền tảng hoàn chỉnh cho phép sinh viên và thư viện quản lý việc thuê mượn sách một cách hiệu quả, tự động hóa quy trình và giảm thiểu sai sót.
+### 🐟 Koi Express
+**Logistics Platform**
 
-**🎯 Key Features:**
-- 📖 Comprehensive book catalog management với advanced search
-- 🔐 Role-based access control (Admin, Librarian, Student) với Spring Security
-- 📅 Smart rental booking & reservation system với conflict detection
-- ⏰ Automatic late fee calculation engine với customizable rules
-- 📧 Automated email notification system (due dates, overdue, reminders)
-- 📊 Interactive reporting dashboard với charts & statistics
-- 🔄 Flexible renewal & extension functionality với approval workflow
-- 💰 Integrated payment & fine management system
-- 🔍 Barcode scanner integration cho quick checkout
-- 📱 Responsive design cho mobile và tablet devices
+🎯 **Main Features**
+- Order management
+- Route optimization
+- Real-time tracking
+- Delivery scheduling
+- Customer portal
 
-**🛠️ Tech Stack:**
-- **Backend**: Java 11, Spring Boot 2.7, Spring MVC, Spring Data JPA, Spring Mail
-- **Frontend**: Thymeleaf Template Engine, Bootstrap 5, jQuery, Chart.js
-- **Database**: MySQL 8.0 với normalized schema design
-- **Security**: Spring Security với JWT authentication
-- **Tools**: Maven, Git, IntelliJ IDEA, MySQL Workbench
-- **Testing**: JUnit 5, Mockito, Integration Tests
-- **Documentation**: Swagger/OpenAPI 3.0
+⚡ **Tech Stack**
+`Java 11` `Spring Boot 2.7`
+`React` `PostgreSQL`
+`Google Maps API`
 
-**📈 Learning Outcomes:**
-- ✅ Mastered RESTful API design principles và best practices
-- ✅ Database normalization (3NF) & query optimization
-- ✅ Complex business logic implementation với service layer
-- ✅ Team collaboration using Git (branching, merging, PR reviews)
-- ✅ Agile/Scrum methodology (sprints, daily standups, retrospectives)
-- ✅ Unit testing & integration testing strategies
-- ✅ MVC architecture pattern implementation
-- ✅ Transaction management và error handling
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge)](#)
 
-**👥 Team Role:**
-- Backend Developer Lead - Thiết kế API architecture
-- Database Designer - Schema design và optimization  
-- Code Reviewer - Ensure code quality và standards
+</td>
+<td width="25%" align="center">
 
----
+### 📚 VNR202
+**Book Rental System**
 
-### 🔧 **GitHub Language Stats API**
-**Custom API Development | Vercel Serverless | GraphQL Integration**
+🎯 **Main Features**
+- Book catalog
+- Rental management
+- User authentication
+- Fine calculation
+- Report generation
 
-Một custom API service được xây dựng để aggregate và visualize programming language statistics từ GitHub repositories, bao gồm cả personal và organization repos. API cung cấp flexibility trong theming và customization.
+⚡ **Tech Stack**
+`Java 11` `Spring Boot 2.7`
+`Bootstrap 5` `MySQL`
+`Spring Security`
 
-**🎯 Features:**
-- 📊 Real-time language statistics aggregation
-- 🎨 Multiple theme support (dark, light, custom)
-- ⚡ Serverless architecture với Vercel Edge Functions
-- 🔄 GraphQL integration với GitHub API
-- 🎭 SVG card generation với custom styling
-- 📦 Organization repository support
-- ⏱️ Smart caching với 30-minute TTL
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge)](https://github.com/NTT-DevFPT/VNR202)
 
-**🛠️ Tech Stack:**
-- **Runtime**: Node.js 18, Vercel Serverless Functions
-- **API**: GitHub GraphQL API v4, @octokit/graphql
-- **Deployment**: Vercel với automatic CD
-- **Security**: Environment variables management
+</td>
+<td width="25%" align="center">
 
----
+### 📊 GitHub Lang Stats
+**Custom API Service**
 
+🎯 **Main Features**
+- Language statistics
+- GraphQL integration
+- SVG card generation
+- Vercel serverless
+- 30-min caching
 
-## 📈 GitHub Stats
+⚡ **Tech Stack**
+`Node.js 18` `Vercel`
+`GitHub GraphQL v4`
+`SVG Generation`
 
-<div align="center">
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge)](https://github.com/NTT-DevFPT/github-lang-stats-api)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## 🏆 Technology Proficiency
+
+| Language/Framework | Experience Level | Project Types |
+|:---|:---:|:---|
+| ☕ Java | Advanced | Backend APIs, Microservices, E-commerce |
+| 🍃 Spring Boot | Advanced | Enterprise Apps, REST APIs, Security |
+| 🟢 JavaScript | Intermediate | Frontend Development, Web Apps |
+| ⚛️ React | Intermediate | SPAs, Interactive UIs |
+| 🔷 TypeScript | Intermediate | Type-safe Frontend Development |
+| 🐬 MySQL | Intermediate | Database Design & Optimization |
+| 🍃 MongoDB | Intermediate | NoSQL Solutions |
+| 🤖 Android | Intermediate | Mobile Applications (Java/Kotlin) |
+
+---
+
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+## 📊 GitHub Stats
 
-**Thanks for visiting my profile! Feel free to explore my repositories and connect with me! 🚀**
+<table>
+<tr>
+<td width="50%" align="center">
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+### 🎨 Language Distribution
+
+<img src="https://github-lang-stats-api.vercel.app/api/stats?username=NTT-DevFPT&theme=tokyonight" alt="Language Stats" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+### 📈 Contribution Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🔥 Contribution Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="80%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Learning Path 2025))
+    Spring Cloud
+      Microservices Architecture
+      Service Discovery
+      API Gateway
+      Config Server
+    Kubernetes
+      Container Orchestration
+      Docker Deployment
+      CI/CD Pipeline
+    AWS Services
+      EC2 & RDS
+      S3 Storage
+      Lambda Functions
+      CloudWatch
+```
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ntt-dev-fpt.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029727378561)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhta110903@gmail.com)
+
+---
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Thanks for visiting my profile! Feel free to explore my repositories and connect with me!** 🚀
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 </div>
