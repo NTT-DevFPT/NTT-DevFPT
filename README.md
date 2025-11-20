@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-ntt--dev--fpt.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://ntt-dev-fpt.vercel.app)
 [![Email](https://img.shields.io/badge/📧_EMAIL-thanhta110903@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:thanhta110903@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
-[![Facebook](https://img.shields.io/badge/📘_Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a1a)](https://www.facebook.com/profile.php?id=100029727378561)
 
 </div>
 
