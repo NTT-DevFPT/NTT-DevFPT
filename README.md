@@ -163,19 +163,94 @@ Postman, Figma, ngrok
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Development Statistics
 
 <div align="center">
 
-![NTT-DevFPT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=radical&count_private=true)
+### 💻 Primary Technologies & Experience
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NTT-DevFPT&layout=compact&theme=radical&langs_count=8)
+| Language/Framework | Experience Level | Project Types |
+|-------------------|-----------------|---------------|
+| ☕ **Java** | **Advanced** | Backend APIs, Microservices, E-commerce |
+| 🍃 **Spring Boot** | **Advanced** | Enterprise Applications, REST APIs |
+| 🟢 **JavaScript** | **Intermediate** | Frontend Development, Web Apps |
+| ⚛️ **React** | **Intermediate** | SPAs, Interactive UIs |
+| 📘 **TypeScript** | **Intermediate** | Type-safe Frontend Development |
+| 🐘 **MySQL** | **Intermediate** | Database Design & Optimization |
+| 🌿 **MongoDB** | **Intermediate** | NoSQL Solutions |
+| 🤖 **Android** | **Intermediate** | Mobile Applications (Java/Kotlin) |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=radical)
+---
+
+### 📈 Contribution Overview
+
+```
+💻 Total Repositories:        6+
+🌟 Organization Projects:     3  (OnlyFan E-commerce Platform)
+🔥 Main Tech Stack:           Java Spring Boot + React/TypeScript
+📦 Database Experience:       MySQL, MongoDB, Firebase
+🚀 Deployment Platforms:      AWS, Vercel, Heroku, ngrok
+```
+
+---
+
+### 🎯 Key Project Contributions
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🌀 OnlyFanShop**
+
+`Java` `Spring Boot`
+
+Mobile + Backend
+
+*E-commerce Platform*
+
+</td>
+<td align="center" width="33%">
+
+**🎯 VNR_202**
+
+`JavaScript` `React`
+
+Frontend Portfolio
+
+*Personal Website*
+
+</td>
+<td align="center" width="33%">
+
+**🚂 Koi Express**
+
+`Java` `JavaScript`
+
+Full-Stack System
+
+*Logistics Platform*
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔥 Technology Proficiency
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&label=Proficiency&labelColor=2c3e50)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&label=Proficiency&labelColor=2c3e50)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=Proficiency&labelColor=2c3e50)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&label=Proficiency&labelColor=2c3e50)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=Proficiency&labelColor=2c3e50)
 
 </div>
 
-> **Note**: GitHub's language statistics primarily show public personal repositories. My extensive Java/Spring Boot work in organization projects (OnlyFan e-commerce platform) is not reflected in these stats but represents a significant portion of my professional development experience.
+> 💡 **Note**: My primary expertise is in **Java/Spring Boot backend development**, with significant contributions to organization repositories (OnlyFan e-commerce platform) which include extensive work in microservices architecture, RESTful API development, and database design.
+
+</div>(OnlyFan e-commerce platform) is not reflected in these stats but represents a significant portion of my professional development experience.
 
 ---
 
