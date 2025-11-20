@@ -9,7 +9,40 @@
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
 [![Facebook](https://img.shields.io/badge/📘_Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a1a)](https://www.facebook.com/profile.php?id=100029727378561)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NTT-DevFPT&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
+
+---
+
+## 💫 About Me
+
+**Backend Developer** specializing in **Java Spring Boot** | Passionate about building scalable and high-performance systems
+
+Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City, Vietnam**. I specialize in backend development with **Java Spring Boot**, while also having experience working with **Frontend** and **Mobile** development.
+
+- 🎓 Currently studying **Software Engineering** at **FPT University**
+- 🌱 Learning **Spring Cloud**, **Kubernetes**, and **AWS Services**
+- 💼 Working on **E-commerce** and **Enterprise Applications**
+- 📍 Based in **Ho Chi Minh City, Vietnam**
+- 🎯 Hobbies: Coding, Reading Tech Blogs, Gaming
+
+---
+
+## 🛠️ Core Skills
+
+```java
+// Backend Development
+Java 17 • Spring Boot 3.x • RESTful APIs • Microservices
+JWT/OAuth2 • Spring Security • Swagger/OpenAPI
+```
+
+```typescript
+// Frontend Development
+React 1
+<!-- 3D Badges with Shadow Effects -->
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-ntt--dev--fpt.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://ntt-dev-fpt.vercel.app)
+[![Email](https://img.shields.io/badge/📧_EMAIL-thanhta110903@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:thanhta110903@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
+[![Facebook](https://img.shields.io/badge/📘_Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a1a)](https://www.facebook.com/profile.php?id=100029727378561)
 
 </div>
 
@@ -39,19 +72,18 @@ JWT/OAuth2 • Spring Security • Swagger/OpenAPI
 
 ```typescript
 // Frontend Development
-React 18 • TypeScript • Next.js 14 • HTML5/CSS3
+React  • TypeScript • Next.js 14 • HTML5/CSS3
 Tailwind CSS • Bootstrap 5 • Responsive Design
 ```
 
 ```kotlin
 // Mobile Development
 Android • Kotlin • Jetpack Compose • MVVM
-Room Database • Retrofit • Material Design
 ```
 
 ```sql
 -- Database & Tools
-MySQL • PostgreSQL • MongoDB • Redis
+MySQL • SQL Server • Redis
 Docker • Git • Postman • Jenkins
 ```
 
@@ -75,7 +107,7 @@ Nền tảng thương mại điện tử full-stack với hệ thống đa vai t
 - Frontend: `React 18` `TypeScript` `Tailwind CSS`
 - Mobile: `Android` `Kotlin` `Jetpack Compose`
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/NTT-DevFPT/OnlyFan)
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/OnlyFan)
 
 </td>
 <td width="50%">
@@ -103,11 +135,9 @@ Hệ thống vận chuyển cá Koi chuyên nghiệp với quản lý đơn hàn
 Hệ thống quản lý cho thuê sách với catalog, xác thực người dùng, tính toán phí phạt, báo cáo thống kê.
 
 **Tech Stack:**
-- Backend: `Java 11` `Spring Boot 2.7` `Spring Security`
-- Frontend: `Bootstrap 5` `jQuery` `Chart.js`
-- Database: `MySQL 8.0`
+- Frontend: `Bootstrap 5` `jQuery` `Chart.js` `Three.js`
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/NTT-DevFPT/VNR202)
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/NTT-DevFPT/VNR_202)
 
 </td>
 <td width="50%">
