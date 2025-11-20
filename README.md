@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF¢er=true&vCenter=true&width=940&lines=🚀+NGUYỄN+THÀNH+TÀI;+Backend+Developer+%7C+Java+Spring+Boot;Building+Scalable%26High-Performance+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=🚀+NGUYỄN+THÀNH+TÀI;+Backend+Developer+%7C+Java+Spring+Boot;Building+Scalable%26High-Performance+Systems" alt="Typing SVG" />
 
 <!-- 3D Badges with Shadow Effects -->
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-ntt--dev--fpt.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://ntt-dev-fpt.vercel.app)
@@ -57,92 +57,72 @@ Docker • Git • Postman • Jenkins
 
 ---
 
-<div align="center">
-
 ## 🚀 Featured Projects
 
-### 👉 Swipe to explore more projects
+<div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="50%">
 
 ### 🛍️ OnlyFanShop
 **E-Commerce Platform**
 
-🎯 **Main Features**
-- Multi-role system
-- Product management
-- Shopping cart & checkout
-- Payment integration
-- Order tracking
+Nền tảng thương mại điện tử full-stack với hệ thống đa vai trò, quản lý sản phẩm, giỏ hàng, thanh toán tích hợp VNPay/Momo.
 
-⚡ **Tech Stack**
-`Java 17` `Spring Boot 3.x`
-`React 18` `MySQL`
-`Redis` `VNPay`
+**Tech Stack:**
+- Backend: `Java 17` `Spring Boot 3.x` `MySQL` `Redis`
+- Frontend: `React 18` `TypeScript` `Tailwind CSS`
+- Mobile: `Android` `Kotlin` `Jetpack Compose`
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge)](https://github.com/NTT-DevFPT/OnlyFan)
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/NTT-DevFPT/OnlyFan)
 
 </td>
-<td width="25%" align="center">
+<td width="50%">
 
 ### 🐟 Koi Express
 **Logistics Platform**
 
-🎯 **Main Features**
-- Order management
-- Route optimization
-- Real-time tracking
-- Delivery scheduling
-- Customer portal
+Hệ thống vận chuyển cá Koi chuyên nghiệp với quản lý đơn hàng, tối ưu tuyến đường, theo dõi real-time.
 
-⚡ **Tech Stack**
-`Java 11` `Spring Boot 2.7`
-`React` `PostgreSQL`
-`Google Maps API`
+**Tech Stack:**
+- Backend: `Java 11` `Spring Boot 2.7` `PostgreSQL`
+- Frontend: `React` `Google Maps API`
+- Features: Route optimization, Real-time tracking
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge)](#)
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/not-for-tomorrow/Koi-Express)
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td width="50%">
 
 ### 📚 VNR202
 **Book Rental System**
 
-🎯 **Main Features**
-- Book catalog
-- Rental management
-- User authentication
-- Fine calculation
-- Report generation
+Hệ thống quản lý cho thuê sách với catalog, xác thực người dùng, tính toán phí phạt, báo cáo thống kê.
 
-⚡ **Tech Stack**
-`Java 11` `Spring Boot 2.7`
-`Bootstrap 5` `MySQL`
-`Spring Security`
+**Tech Stack:**
+- Backend: `Java 11` `Spring Boot 2.7` `Spring Security`
+- Frontend: `Bootstrap 5` `jQuery` `Chart.js`
+- Database: `MySQL 8.0`
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge)](https://github.com/NTT-DevFPT/VNR202)
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/NTT-DevFPT/VNR202)
 
 </td>
-<td width="25%" align="center">
+<td width="50%">
 
-### 📊 GitHub Lang Stats
+### 📊 GitHub Lang Stats API
 **Custom API Service**
 
-🎯 **Main Features**
-- Language statistics
-- GraphQL integration
-- SVG card generation
-- Vercel serverless
-- 30-min caching
+API thống kê ngôn ngữ lập trình tùy chỉnh sử dụng GitHub GraphQL, Vercel Serverless với caching 30 phút.
 
-⚡ **Tech Stack**
-`Node.js 18` `Vercel`
-`GitHub GraphQL v4`
-`SVG Generation`
+**Tech Stack:**
+- Runtime: `Node.js 18` `Vercel Serverless`
+- API: `GitHub GraphQL v4` `@octokit/graphql`
+- Features: SVG generation, Smart caching
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge)](https://github.com/NTT-DevFPT/github-lang-stats-api)
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/NTT-DevFPT/github-lang-stats-api)
 
 </td>
 </tr>
@@ -152,24 +132,9 @@ Docker • Git • Postman • Jenkins
 
 ---
 
-## 🏆 Technology Proficiency
-
-| Language/Framework | Experience Level | Project Types |
-|:---|:---:|:---|
-| ☕ Java | Advanced | Backend APIs, Microservices, E-commerce |
-| 🍃 Spring Boot | Advanced | Enterprise Apps, REST APIs, Security |
-| 🟢 JavaScript | Intermediate | Frontend Development, Web Apps |
-| ⚛️ React | Intermediate | SPAs, Interactive UIs |
-| 🔷 TypeScript | Intermediate | Type-safe Frontend Development |
-| 🐬 MySQL | Intermediate | Database Design & Optimization |
-| 🍃 MongoDB | Intermediate | NoSQL Solutions |
-| 🤖 Android | Intermediate | Mobile Applications (Java/Kotlin) |
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-
-## 📊 GitHub Stats
 
 <table>
 <tr>
@@ -182,16 +147,16 @@ Docker • Git • Postman • Jenkins
 </td>
 <td width="50%" align="center">
 
-### 📈 Contribution Stats
+### 📈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats" width="100%" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-### 🔥 Contribution Activity
+### 🔥 Contribution Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="80%" />
 
@@ -203,39 +168,7 @@ Docker • Git • Postman • Jenkins
 
 ---
 
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Learning Path 2025))
-    Spring Cloud
-      Microservices Architecture
-      Service Discovery
-      API Gateway
-      Config Server
-    Kubernetes
-      Container Orchestration
-      Docker Deployment
-      CI/CD Pipeline
-    AWS Services
-      EC2 & RDS
-      S3 Storage
-      Lambda Functions
-      CloudWatch
-```
-
----
-
 <div align="center">
-
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ntt-dev-fpt.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029727378561)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhta110903@gmail.com)
-
----
 
 ### 💬 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
