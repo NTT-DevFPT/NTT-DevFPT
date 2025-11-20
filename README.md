@@ -170,31 +170,33 @@ API thống kê ngôn ngữ lập trình tùy chỉnh sử dụng GitHub GraphQL
 <tr>
 <td width="50%" align="center">
 
-### 🎨 Language Distribution
-
-<img src="https://github-lang-stats-api.vercel.app/api/stats?username=NTT-DevFPT&theme=tokyonight" alt="Language Stats" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
 ### 📈 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true" alt="GitHub Stats" width="100%" />
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🎨 Language Distribution
+
+<img src="https://github-lang-stats-api.vercel.app/api/stats?username=NTT-DevFPT&theme=tokyonight" alt="Language Stats" width="80%" />
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
