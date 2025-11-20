@@ -62,22 +62,6 @@ Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City
 - Retrofit & OkHttp
 ```
 
-### Database & Tools
-```sql
--- Database Management
-- MySQL 🐬
-- PostgreSQL 🐘
-- MongoDB 🍃
-- Redis (Caching)
-
--- Development Tools
-- Git & GitHub
-- Docker 🐳
-- Postman/Insomnia
-- IntelliJ IDEA / VS Code
-- Maven / Gradle
-```
-
 ---
 
 <div align="center">
@@ -192,22 +176,6 @@ Một custom API service được xây dựng để aggregate và visualize prog
 
 ---
 
-## 🏆 Technology Proficiency
-
-### Programming Languages & Experience
-
-| Language/Framework | Experience Level | Project Types |
-|-------------------|------------------|---------------|
-| ☕ **Java** | **Advanced** | Backend APIs, Microservices, E-commerce |
-| 🍃 **Spring Boot** | **Advanced** | Enterprise Apps, REST APIs, Security |
-| 🟢 **JavaScript** | **Intermediate** | Frontend Development, Web Apps |
-| ⚛️ **React** | **Intermediate** | SPAs, Interactive UIs |
-| 📘 **TypeScript** | **Intermediate** | Type-safe Frontend Development |
-| 🐬 **MySQL** | **Intermediate** | Database Design & Optimization |
-| 🌿 **MongoDB** | **Intermediate** | NoSQL Solutions |
-| 📱 **Android** | **Intermediate** | Mobile Applications (Java/Kotlin) |
-
----
 
 ## 📈 GitHub Stats
 
@@ -215,39 +183,6 @@ Một custom API service được xây dựng để aggregate và visualize prog
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[Learning] --> B[Spring Cloud]
-    A --> C[Kubernetes]
-    A --> D[AWS Services]
-    B --> E[Microservices]
-    C --> E
-    D --> E
-    E --> F[Building Scalable Systems]
-```
-
-- 🌐 Exploring **Spring Cloud** for microservices
-- ☁️ Learning **AWS** (EC2, S3, RDS, Lambda)
-- 🚀 Implementing **CI/CD pipelines** với GitHub Actions
-- 📚 Reading **Clean Architecture** by Robert C. Martin
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D9FF?style=for-the-badge)](https://ntt-dev-fpt.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:thanhtai10903@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100029723738561)
 
 </div>
 
