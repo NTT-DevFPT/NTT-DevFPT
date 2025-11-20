@@ -141,16 +141,6 @@ API thống kê ngôn ngữ lập trình tùy chỉnh sử dụng GitHub GraphQL
 
 ---
 
-<!-- Language Distribution -->
-### 🎨 Language Distribution
-<img 
-    src="https://github-lang-stats-api.vercel.app/api/stats?username=NTT-DevFPT&theme=tokyonight" 
-    alt="Language Stats" 
-    width="50%" 
-/>
-
----
-
 <!-- Contribution Streak -->
 ### 🔥 Contribution Streak
 <img 
