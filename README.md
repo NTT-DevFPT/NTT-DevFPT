@@ -181,7 +181,7 @@ API thống kê ngôn ngữ lập trình tùy chỉnh sử dụng GitHub GraphQL
 <img 
     src="https://github-lang-stats-api.vercel.app/api/stats?username=NTT-DevFPT&theme=tokyonight" 
     alt="Language Stats" 
-    width="70%" 
+    width="50%" 
 />
 
 ---
