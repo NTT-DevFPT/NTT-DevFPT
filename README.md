@@ -7,34 +7,35 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-813053294/)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100029723738561)
 
-*Backend Developer chuyên về Java Spring Boot | Đam mê xây dựng hệ thống scalable và hiệu suất cao*
+*Backend Developer specializing in Java Spring Boot | Passionate about building scalable and high-performance systems*
 
 </div>
 
 ---
 
-## 🌟 Về Tôi
+## 🌟 About Me
 
-Xin chào! Tôi là **Nguyễn Thành Tài**, một Backend Developer đến từ **Thành phố Hồ Chí Minh**. Tôi chuyên phát triển các ứng dụng backend với **Java Spring Boot**, đồng thời có kinh nghiệm làm việc với cả **Frontend** và **Mobile Development**.
+Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City, Vietnam**. I specialize in backend development with **Java Spring Boot**, while also having experience working with **Frontend** and **Mobile Development**.
 
-- 🔭 **Hiện tại**: Đang xây dựng portfolio website cá nhân và các dự án e-commerce
-- 🌱 **Đang học**: Chuyên sâu về **Spring Boot**, **GraphQL**, và **AWS Cloud**
-- 💼 **Vị trí**: Backend Developer
-- 📍 **Địa điểm**: HCM City, Vietnam
-- ⚡ **Sở thích**: Chơi cờ vua, nghiên cứu các ngôn ngữ lập trình mới
+- 🔭 **Currently**: Building personal portfolio website and e-commerce projects
+- 🌱 **Learning**: Deep diving into **Spring Boot**, **GraphQL**, and **AWS Cloud**
+- 💼 **Position**: Backend Developer
+- 📍 **Location**: HCM City, Vietnam
+- ⚡ **Hobbies**: Playing chess, exploring new programming languages
 
 ---
 
-## 💻 Kỹ Năng Chính
+## 💻 Core Skills
 
-### Backend Development (Chuyên môn chính)
+### Backend Development (Primary Expertise)
 
 ```java
 // Core Backend Technologies
-- Java ☕ (Spring Boot, Spring MVC, Spring Security)
-- Node.js 🟢 (Express.js, REST APIs)
-- RESTful API Design & Microservices
+- Java ☕ (Spring Boot, Spring MVC, Spring Security, Spring Data JPA)
+- RESTful API Design & Development
+- Microservices Architecture
 - Authentication & Authorization (JWT, OAuth2)
+- API Documentation (Swagger/OpenAPI)
 ```
 
 ### Frontend Development
@@ -53,7 +54,7 @@ Xin chào! Tôi là **Nguyễn Thành Tài**, một Backend Developer đến t�
 ```kotlin
 // Mobile Technologies
 - Android (Java, Kotlin)
-- React Native
+- Android Studio & View Binding
 ```
 
 ### Database & Tools
@@ -64,8 +65,8 @@ MySQL, MongoDB, Firebase
 
 -- DevOps & Tools
 Git, GitHub, Docker, Nginx
-AWS, Vercel, Netlify, Heroku
-Postman, Figma
+AWS, Vercel, Heroku
+Postman, Figma, ngrok
 ```
 
 ---
@@ -77,8 +78,7 @@ Postman, Figma
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -106,15 +106,15 @@ Postman, Figma
 
 ---
 
-## 🚀 Dự Án Nổi Bật
+## 🚀 Featured Projects
 
 ### 🌀 [OnlyFanShop - E-Commerce Platform](https://github.com/NTT-DevFPT/OnlyFanshop_Mobile)
-**E-commerce parody chuyên bán quạt điện** | `Java` `Spring Boot` `TypeScript` `React`
+**E-commerce parody specializing in electric fans** | `Java` `Spring Boot` `TypeScript` `React`
 
-- 📱 **Mobile App**: Android app được xây dựng bằng Java với real-time chat, payment integration
-- 🌐 **Web Platform**: TypeScript, Next.js frontend với responsive design
+- 📱 **Mobile App**: Android app built with Java featuring real-time chat and payment integration
+- 🌐 **Web Platform**: TypeScript, Next.js frontend with responsive design
 - 🔧 **Features**: 
-  - Hệ thống quản lý sản phẩm đa dạng (quạt mini, quạt không cánh cao cấp)
+  - Diverse product management system (mini fans, bladeless premium fans)
   - Real-time chat support
   - Payment gateway integration
   - Admin dashboard
@@ -129,31 +129,37 @@ Postman, Figma
 ### 🎯 [VNR_202 - Portfolio Website](https://vnr-202-sand.vercel.app)
 **Modern Portfolio Website** | `JavaScript` `React` `Vercel`
 
-- 🎨 Interactive và responsive design
-- 🚀 Deployed trên Vercel với production-ready
+- 🎨 Interactive and responsive design
+- 🚀 Deployed on Vercel with production-ready setup
 - ⚡ Performance optimized
-- 📊 Showcase projects, experience, và skills
+- 📊 Showcase projects, experience, and skills
 
 **Link**: [🔗 Live Demo](https://vnr-202-sand.vercel.app) | [💻 Repository](https://github.com/NTT-DevFPT/VNR_202)
 
 ---
 
-### 🤖 [Next.js AI Chatbot](https://github.com/NTT-DevFPT/nextjs-ai-chatbot)
-**AI-Powered Chatbot Application** | `TypeScript` `Next.js` `AI Integration`
+### 🚂 [Koi Express - Logistics Management System](https://github.com/NTT-DevFPT/Koi-Express)
+**Professional Koi Fish Transportation System** | `Java` `JavaScript` `Spring Boot`
 
-- 🧠 Tích hợp AI để xử lý chat thông minh
-- 💬 Real-time conversation interface
-- 🎨 Modern UI/UX với TypeScript
-- 🔒 Private project với advanced features
+- 🐟 **Specialized Service**: Professional Koi fish transportation system providing safe delivery services across Vietnam with the highest safety standards
+- 📦 **Core Features**:
+  - Complete logistics management system from order placement to delivery
+  - Real-time order tracking and status updates
+  - Cost calculation by distance, Koi size, and special care requirements
+  - Health monitoring and care during transit
+  - Professional packaging and handling protocols
+- 👥 **User Roles**:
+  - **Customer Portal**: Place orders, track shipments, view delivery history
+  - **Admin Dashboard**: Manage orders, drivers, routes, and system analytics
+  - **Driver App**: Route management, delivery updates, Koi care documentation
+- 🔧 **Technical Highlights**:
+  - Backend: Java Spring Boot with RESTful APIs
+  - Frontend: JavaScript for interactive UI
+  - Database: MySQL for data management
+  - Real-time notifications and updates
+- 🎯 **Business Impact**: Ensuring safe and professional Koi fish transportation with complete tracking and care monitoring throughout the delivery process
 
----
-
-### 🚂 [Koi Express](https://github.com/NTT-DevFPT/Koi-Express)
-**Logistics Management System** | `JavaScript`
-
-- 📦 Hệ thống quản lý vận chuyển
-- 🗺️ Tracking và delivery management
-- 📊 Dashboard cho admin và users
+**Link**: [💻 Repository](https://github.com/NTT-DevFPT/Koi-Express)
 
 ---
 
@@ -171,36 +177,40 @@ Postman, Figma
 
 ---
 
-## 🎯 Chuyên Môn
+## 🎯 Professional Expertise
 
 ```mermaid
-graph LR
+graph TB
     A[Backend Developer] --> B[Java Spring Boot]
-    A --> C[Node.js]
-    A --> D[RESTful APIs]
-    B --> E[Microservices]
-    B --> F[Spring Security]
-    C --> G[Express.js]
-    D --> H[API Design]
+    A --> C[API Development]
+    A --> D[Database Design]
+    B --> E[Spring Security]
+    B --> F[Spring Data JPA]
+    B --> G[Microservices]
+    C --> H[RESTful APIs]
+    C --> I[API Documentation]
+    D --> J[MySQL]
+    D --> K[MongoDB]
 ```
 
-### 🔥 Điểm Mạnh
+### 🔥 Core Strengths
 
-✅ **Backend Architecture**: Thiết kế và xây dựng RESTful APIs scalable  
-✅ **Java Spring Boot**: Framework chính cho enterprise applications  
-✅ **Database Design**: Thiết kế schema tối ưu cho MySQL, MongoDB  
-✅ **Full-Stack Mindset**: Hiểu biết cả Frontend và Mobile để tích hợp tốt hơn  
-✅ **Problem Solving**: Giải quyết các vấn đề phức tạp với code clean và maintainable  
+✅ **Backend Architecture**: Design and build scalable RESTful APIs with best practices  
+✅ **Java Spring Boot**: Primary framework for enterprise applications and microservices  
+✅ **Database Design**: Optimize schema design for MySQL and MongoDB  
+✅ **Full-Stack Mindset**: Understanding of Frontend and Mobile for better integration  
+✅ **Problem Solving**: Tackle complex challenges with clean and maintainable code  
+✅ **API Development**: Comprehensive experience in building and documenting APIs  
 
 ---
 
-## 📫 Liên Hệ
+## 📫 Contact
 
 <div align="center">
 
-### 💬 Kết nối với tôi!
+### 💬 Let's Connect!
 
-Tôi luôn sẵn sàng cho các cơ hội hợp tác, freelance projects, hoặc đơn giản là trao đổi về công nghệ!
+I'm always open to collaboration opportunities, freelance projects, or simply discussing technology!
 
 [![Email](https://img.shields.io/badge/Email-thanhtai10903%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhtai10903@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://ntt-dev-fpt.vercel.app)
