@@ -37,41 +37,6 @@ JWT/OAuth2 • Spring Security • Swagger/OpenAPI
 
 ```typescript
 // Frontend Development
-React 1
-<!-- 3D Badges with Shadow Effects -->
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-ntt--dev--fpt.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://ntt-dev-fpt.vercel.app)
-[![Email](https://img.shields.io/badge/📧_EMAIL-thanhta110903@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:thanhta110903@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
-[![Facebook](https://img.shields.io/badge/📘_Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a1a)](https://www.facebook.com/profile.php?id=100029727378561)
-
-</div>
-
----
-
-## 💫 About Me
-
-**Backend Developer** specializing in **Java Spring Boot** | Passionate about building scalable and high-performance systems
-
-Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City, Vietnam**. I specialize in backend development with **Java Spring Boot**, while also having experience working with **Frontend** and **Mobile** development.
-
-- 🎓 Currently studying **Software Engineering** at **FPT University**
-- 🌱 Learning **Spring Cloud**, **Kubernetes**, and **AWS Services**
-- 💼 Working on **E-commerce** and **Enterprise Applications**
-- 📍 Based in **Ho Chi Minh City, Vietnam**
-- 🎯 Hobbies: Coding, Reading Tech Blogs, Gaming
-
----
-
-## 🛠️ Core Skills
-
-```java
-// Backend Development
-Java 17 • Spring Boot 3.x • RESTful APIs • Microservices
-JWT/OAuth2 • Spring Security • Swagger/OpenAPI
-```
-
-```typescript
-// Frontend Development
 React  • TypeScript • Next.js 14 • HTML5/CSS3
 Tailwind CSS • Bootstrap 5 • Responsive Design
 ```
