@@ -126,12 +126,50 @@ API thống kê ngôn ngữ lập trình tùy chỉnh sử dụng GitHub GraphQL
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+
+<!-- Most Used Languages & Contribution Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-for-tomorrow&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=html,css&card_width=400" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=not-for-tomorrow&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Detailed Profile Stats - Shows ALL contributions including organizations -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=not-for-tomorrow&theme=github_dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Activity Graph - Includes organization commits -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=not-for-tomorrow&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&area_color=00D9FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Productive Time & Language Distribution -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=not-for-tomorrow&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=not-for-tomorrow&theme=github_dark" />
+
+</div>
+
+---
 
 <div align="center">
 
 <!-- GitHub Statistics -->
-### 📈 GitHub Statistics
+### 📈 Personal Repository Statistics
 <img 
     src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&" 
     alt="GitHub Stats"
