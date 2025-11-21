@@ -133,7 +133,7 @@ API thống kê ngôn ngữ lập trình tùy chỉnh sử dụng GitHub GraphQL
 <!-- GitHub Statistics -->
 ### 📈 GitHub Statistics
 <img 
-    src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&" 
     alt="GitHub Stats"
     width="70%" 
 />
