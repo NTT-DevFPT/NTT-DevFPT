@@ -171,18 +171,6 @@ API thống kê ngôn ngữ lập trình tùy chỉnh sử dụng GitHub GraphQL
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
 </p>
 
-### 💻 Language Distribution (Personal + Organization Repos)
-
-<p align="center">
-  <img src="https://github-lang-stats-api.vercel.app/api?username=NTT-DevFPT&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=ffffff" alt="Language Stats" width="60%" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NTT-DevFPT&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 ### 🔥 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NTT-DevFPT&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=ffffff)](https://github.com/NTT-DevFPT)
