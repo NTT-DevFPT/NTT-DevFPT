@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF¢er=true&vCenter=true&width=940&lines=🚀+NGUYỄN+THÀNH+TÀI;+Backend+Developer+%7C+Java+Spring+Boot;Building+Scalable%26High-Performance+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.streak-stats.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF¢er=true&vCenter=true&width=940&lines=🚀+NGUYỄN+THÀNH+TÀI;+Backend+Developer+%7C+Java+Spring+Boot;Building+Scalable%26High-Performance+Systems" alt="Typing SVG" />
 
 <!-- 3D Badges with Shadow Effects -->
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-ntt--dev--fpt.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://ntt-dev-fpt.vercel.app)
@@ -168,7 +168,7 @@ API thống kê ngôn ngữ lập trình tùy chỉnh sử dụng GitHub GraphQL
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
 </p>
 
 ### 🔥 Contribution Graph
