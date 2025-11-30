@@ -31,7 +31,7 @@ Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City
 ### Backend Development
 ```java
 // Java 17 • Spring Boot 3.x • Microservices Architecture
-// RESTful APIs • GraphQL • gRPC
+// RESTful APIs 
 // JWT/OAuth2 • Spring Security • Role-Based Access Control
 // Swagger/OpenAPI • API Gateway • Service Discovery
 // Spring Data JPA • Hibernate • Query Optimization
@@ -47,7 +47,7 @@ Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City
 
 ### Mobile Development
 ```kotlin
-// Android • Kotlin • Jetpack Compose
+// Android • Java • Jetpack Compose
 // MVVM • Clean Architecture • Coroutines
 // Retrofit • Room • WorkManager
 ```
