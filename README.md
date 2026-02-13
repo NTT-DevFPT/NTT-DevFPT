@@ -47,7 +47,7 @@ Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City
 
 ### Mobile Development
 ```kotlin
-// Android • Java • Jetpack Compose
+// Android • Java 
 // MVVM • Clean Architecture • Coroutines
 // Retrofit • Room • WorkManager
 ```
@@ -61,8 +61,8 @@ Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City
 
 ### DevOps & Cloud
 ```bash
-// Docker • Docker Compose • Kubernetes
-// Git • GitHub Actions • Jenkins CI/CD
+// Docker • Docker Compose 
+// Git 
 // AWS (EC2, S3, RDS) • Vercel • Serverless
 // Postman • API Testing • Load Testing
 ```
