@@ -1,163 +1,108 @@
 <div align="center">
 
-<!-- 3D Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=🚀+NGUYỄN+THÀNH+TÀI;+Backend+Developer+%7C+Java+Spring+Boot;Building+Scalable%26High-Performance+Systems" alt="Typing SVG" />
+<h1>Hi, I'm Nguyễn Thành Tài 👋</h1>
+<p><b>Backend Developer • Java / Spring Boot</b></p>
+<p>Building scalable, secure, high-performance systems</p>
 
-<!-- 3D Badges with Shadow Effects -->
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-ntt--dev--fpt.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://ntt-dev-fpt.vercel.app)
-[![Email](https://img.shields.io/badge/📧_EMAIL-thanhta110903@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:thanhta110903@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/tài-nguyễn-813053294/)
-
-</div>
-
----
-
-## 💫 About Me
-
-**Backend Developer** specializing in **Java Spring Boot** | Passionate about building scalable and high-performance systems
-
-Hello! I'm **Nguyễn Thành Tài**, a Backend Developer from **Ho Chi Minh City, Vietnam**. I specialize in backend development with **Java Spring Boot**, while also having experience working with **Frontend** and **Mobile** development.
-
-- 🎓 Currently studying **Software Engineering** at **FPT University**
-- 🌱 Learning **Spring Cloud**, **Kubernetes**, and **AWS Services**
-- 💼 Working on **E-commerce** and **Enterprise Applications**
-- 📍 Based in **Ho Chi Minh City, Vietnam**
-- 🎯 Hobbies: Coding, Reading Tech Blogs, Gaming
-
----
-
-## 🛠️ Core Skills
-
-```java
-// Backend Development
-Java 17 • Spring Boot 3.x • RESTful APIs • Microservices
-JWT/OAuth2 • Spring Security • Swagger/OpenAPI
-```
-
-```typescript
-// Frontend Development
-React  • TypeScript • Next.js 14 • HTML5/CSS3
-Tailwind CSS • Bootstrap 5 • Responsive Design
-```
-
-```kotlin
-// Mobile Development
-Android • Kotlin • Jetpack Compose • MVVM
-```
-
-```sql
--- Database & Tools
-MySQL • SQL Server • Redis
-Docker • Git • Postman • Jenkins
-```
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛍️ OnlyFanShop
-**E-Commerce Platform**
-
-Nền tảng thương mại điện tử full-stack với hệ thống đa vai trò, quản lý sản phẩm, giỏ hàng, thanh toán tích hợp VNPay/Momo.
-
-**Tech Stack:**
-- Backend: `Java 17` `Spring Boot 3.x` `MySQL` `Redis`
-- Frontend: `React 18` `TypeScript` `Tailwind CSS`
-- Mobile: `Android` `Kotlin` `Jetpack Compose`
-
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/OnlyFan)
-
-</td>
-<td width="50%">
-
-### 🐟 Koi Express
-**Logistics Platform**
-
-Hệ thống vận chuyển cá Koi chuyên nghiệp với quản lý đơn hàng, tối ưu tuyến đường, theo dõi real-time.
-
-**Tech Stack:**
-- Backend: `Java 11` `Spring Boot 2.7` `PostgreSQL`
-- Frontend: `React` `Google Maps API`
-- Features: Route optimization, Real-time tracking
-
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/not-for-tomorrow/Koi-Express)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 VNR202
-**Book Rental System**
-
-Hệ thống quản lý cho thuê sách với catalog, xác thực người dùng, tính toán phí phạt, báo cáo thống kê.
-
-**Tech Stack:**
-- Frontend: `Bootstrap 5` `jQuery` `Chart.js` `Three.js`
-
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/NTT-DevFPT/VNR_202)
-
-</td>
-<td width="50%">
-
-### 📊 GitHub Lang Stats API
-**Custom API Service**
-
-API thống kê ngôn ngữ lập trình tùy chỉnh sử dụng GitHub GraphQL, Vercel Serverless với caching 30 phút.
-
-**Tech Stack:**
-- Runtime: `Node.js 18` `Vercel Serverless`
-- API: `GitHub GraphQL v4` `@octokit/graphql`
-- Features: SVG generation, Smart caching
-
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/NTT-DevFPT/github-lang-stats-api)
-
-</td>
-</tr>
-</table>
+<a href="https://ntt-dev-fpt.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-ntt--dev--fpt.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:thanhta110903@gmail.com">
+  <img src="https://img.shields.io/badge/Email-thanhta110903%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-813053294/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
+
+---
+
+## 🚀 About Me
+
+Backend Developer specializing in **Java & Spring Boot**, passionate about building  
+**scalable**, **secure**, and **high-performance** backend systems.
+
+📍 Ho Chi Minh City, Vietnam  
+🎓 Software Engineering @ FPT University
+
+- 🌱 Currently learning: **Spring Cloud, Kubernetes, AWS**
+- 💡 Interests: **E-commerce, enterprise systems, system design, performance tuning**
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**  
+`Java 17` • `Spring Boot 3.x` • `Spring Security (JWT/OAuth2)` • `REST` • `OpenAPI/Swagger`  
+`JPA/Hibernate` • Microservices patterns
+
+**Data**  
+`MySQL` • `PostgreSQL` • `SQL Server` • `Redis` • Indexing & Query Optimization
+
+**Frontend / Mobile**  
+`React + TypeScript + Next.js`  
+`Android (Kotlin, MVVM, Clean Architecture)`
+
+**DevOps / Cloud**  
+`Docker` • `Docker Compose` • `Git` • `AWS (EC2, S3, RDS)` • `Vercel`  
+Testing & Load testing tools
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 OnlyFanShop — E-Commerce Platform
+> Full-stack e-commerce system with multi-role management, online payments & inventory sync.
+
+- Tech: `Spring Boot 3.x` • `MySQL` • `Redis` • `React/TS` • `Android (Kotlin/Compose)`
+- Highlights:
+    - Microservices + API Gateway
+    - JWT Authentication
+    - VNPay / MoMo integration
+    - Real-time inventory sync
+
+🔗 Repo: https://github.com/OnlyFan
+
+---
+
+### 🚚 Koi Express — Logistics Platform
+> Delivery platform with route optimization & real-time tracking.
+
+- Tech: `Spring Boot 2.7` • `PostgreSQL` • `React` • `Google Maps API`
+- Features:
+    - Order management
+    - Route optimization
+    - Real-time tracking
+
+🔗 Repo: https://github.com/not-for-tomorrow/Koi-Express
+
+---
+
+### 📚 VNR202 — Book Rental System
+> Rental management system with analytics dashboard & 3D visualization.
+
+- Tech: `Bootstrap` • `jQuery` • `Chart.js` • `Three.js`
+- Features:
+    - Rental catalog
+    - Authentication
+    - Fine calculation
+    - Analytics dashboard
+
+🔗 Repo: https://github.com/NTT-DevFPT/VNR_202
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- GitHub Statistics -->
-### 📈 GitHub Statistics
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=NTT-DevFPT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true" 
-    alt="GitHub Stats"
-    width="70%" 
-/>
-
----
-
-<!-- Contribution Streak -->
-### 🔥 Contribution Streak
-<img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NTT-DevFPT&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" 
-    alt="GitHub Streak" 
-    width="70%" 
-/>
-
+  <img src="https://streak-stats.demolab.com?user=NTT-DevFPT&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="60%" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💬 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-**Thanks for visiting my profile! Feel free to explore my repositories and connect with me!** 🚀
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
 
 </div>
