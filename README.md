@@ -4,8 +4,8 @@
 <p><b>Backend Developer • Java / Spring Boot</b></p>
 <p>Building scalable, secure, high-performance systems</p>
 
-<a href="https://ntt-dev-fpt.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-ntt--dev--fpt.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://nguyenthanhtai.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-nguyenthanhtai.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:thanhta110903@gmail.com">
   <img src="https://img.shields.io/badge/Email-thanhta110903%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
